@@ -1,0 +1,78 @@
+0000.001 (0) Opened log file at time: Mon, 04 Nov 2024 08:11:13 +0000 on http://localhost/wordpress
+0000.008 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.6 WP: 6.6.2 PHP: 8.2.12 (apache2handler, Windows NT DESKTOP-2R7RSE4 10.0 build 19045 (Windows 10) AMD64) MySQL: 10.4.32-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 66.5M | 68M) multisite: N openssl: OpenSSL 3.0.11 19 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: N
+0000.013 (0) Free space on disk containing Updraft's temporary directory: 6913.2 MB
+0000.031 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.045 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.053 (0) Semaphore (fd, wp_options) was stuck, set lock time to 2024-11-04 08:11:13
+0000.059 (0) Semaphore (fd, wp_options) reset to 1
+0000.064 (0) Set semaphore last lock (fd) time to 2024-11-04 08:11:13
+0000.068 (0) Semaphore lock (fd) complete
+0000.096 (0) Backup run: resumption=0, nonce=1ef7fe82d501, file_nonce=1ef7fe82d501 begun at=1730707873 (0s ago), job type=backup
+0000.105 (0) Scheduling a resumption (1) after 300 seconds (1730708173) in case this run gets aborted
+0000.130 (0) Checking if we have a zip executable available
+0000.139 (0) Zip engine: ZipArchive (a.k.a. php-zip) is not available or is disabled (will use PclZip (much slower) if needed)
+0000.144 (0) Creation of backups of directories: beginning
+0000.163 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0004.637 (0) Total entities for the zip file: 1132 directories, 5239 files (0 skipped as non-modified), 103.7 MB
+0004.648 (0) Only one archive required (UpdraftPlus_PclZip) - will attempt to do in single operation (data: 106238.7 KB, split: 409600 KB)
+0004.722 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0004.792 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0004.865 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0004.936 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0005.050 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0005.164 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0005.366 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0005.486 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0005.587 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0006.160 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0006.241 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 1100 files added (on-disk size: 0 KB)
+0006.315 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 1200 files added (on-disk size: 0 KB)
+0006.388 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 1300 files added (on-disk size: 0 KB)
+0006.468 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 1400 files added (on-disk size: 0 KB)
+0006.543 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 1500 files added (on-disk size: 0 KB)
+0006.621 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 1600 files added (on-disk size: 0 KB)
+0006.704 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 1700 files added (on-disk size: 0 KB)
+0006.783 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 1800 files added (on-disk size: 0 KB)
+0006.905 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 1900 files added (on-disk size: 0 KB)
+0007.078 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 2000 files added (on-disk size: 0 KB)
+0007.229 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 2100 files added (on-disk size: 0 KB)
+0007.343 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 2200 files added (on-disk size: 0 KB)
+0007.447 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 2300 files added (on-disk size: 0 KB)
+0007.548 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 2400 files added (on-disk size: 0 KB)
+0007.632 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 2500 files added (on-disk size: 0 KB)
+0007.796 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 2600 files added (on-disk size: 0 KB)
+0007.914 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 2700 files added (on-disk size: 0 KB)
+0008.037 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 2800 files added (on-disk size: 0 KB)
+0008.184 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 2900 files added (on-disk size: 0 KB)
+0008.458 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 3000 files added (on-disk size: 0 KB)
+0008.819 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 3100 files added (on-disk size: 0 KB)
+0009.413 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 3200 files added (on-disk size: 0 KB)
+0009.708 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0010.277 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0010.504 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0010.731 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0010.830 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0010.963 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0011.068 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0011.180 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0011.669 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0011.944 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0012.120 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 4300 files added (on-disk size: 0 KB)
+0012.219 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 4400 files added (on-disk size: 0 KB)
+0012.304 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 4500 files added (on-disk size: 0 KB)
+0012.410 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 4600 files added (on-disk size: 0 KB)
+0012.520 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 4700 files added (on-disk size: 0 KB)
+0012.625 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 4800 files added (on-disk size: 0 KB)
+0012.713 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 4900 files added (on-disk size: 0 KB)
+0012.792 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 5000 files added (on-disk size: 0 KB)
+0012.882 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 5100 files added (on-disk size: 0 KB)
+0012.983 (0) Zip: backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp: 5200 files added (on-disk size: 0 KB)
+0035.216 (0) PHP event: code E_WARNING: rename(pclzip-672881c43ba8f.tmp,C:\xampp\htdocs\wordpress/wp-content/updraft/backup_2024-11-04-0811_trilliant_digital_1ef7fe82d501-plugins.zip.tmp): The system cannot find the file specified (code: 2) (line 5659, C:\xampp\htdocs\wordpress\wp-admin\includes\class-pclzip.php)
+0035.225 (0) PHP event: code E_WARNING: copy(pclzip-672881c43ba8f.tmp): Failed to open stream: No such file or directory (line 5662, C:\xampp\htdocs\wordpress\wp-admin\includes\class-pclzip.php)
+0313.565 (0) The time we have been running (313.5) is approaching the resumption interval (300) - increasing resumption interval to 344
+0313.583 (0) User request for abort: backup job will be immediately halted
+0313.589 (0) Decremented the semaphore (fd) by 1
+0313.595 (0) Semaphore (fd, wp_options) still locked (0)
+0313.599 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0313.619 (0) No email will/can be sent - the user has not configured an email address.
+0313.624 (0) The backup was aborted by the user
